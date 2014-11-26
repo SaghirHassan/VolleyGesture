@@ -1,0 +1,22 @@
+D:\HCI2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\HCI2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\HCI2\Temp\bin\Debug\UnityEditor.dll
+D:\HCI2\Temp\bin\Debug\UnityEngine.dll
+D:\HCI2\Temp\bin\Debug\Mono.Cecil.dll
+D:\HCI2\Temp\bin\Debug\nunit.framework.dll
+D:\HCI2\Temp\bin\Debug\Unity.DataContract.dll
+D:\HCI2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\HCI2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\HCI2\obj\Debug\Assembly-CSharp.dll
+D:\HCI2\obj\Debug\Assembly-CSharp.pdb
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\Temp\bin\Debug\UnityEditor.dll
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\Temp\bin\Debug\UnityEngine.dll
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\Temp\bin\Debug\Mono.Cecil.dll
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\Temp\bin\Debug\nunit.framework.dll
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\Temp\bin\Debug\Unity.DataContract.dll
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\obj\Debug\Assembly-CSharp.dll
+D:\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\Gaming-Volley Gesture-k11-2356-k11-2425-k11-2195-k11-2379\ProjectTitle\VolleyGesture\obj\Debug\Assembly-CSharp.pdb
